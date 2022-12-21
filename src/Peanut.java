@@ -6,5 +6,6 @@ public class Peanut {
         System.out.println("Peanut3");
         System.out.println("Peanut4");
         System.out.println("Peanut5");
+        System.out.println("Peanut6");
     }
 }
