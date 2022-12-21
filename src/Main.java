@@ -10,5 +10,10 @@ public class Main {
         Fxron.color="green";
         Fxron.size="4382742km";
         Fxron.temp="-23478274372k";
+
+        System.out.println("I am the Test Branch");
+        System.out.println("I am the Test Branch Again");
+        System.out.println("I am the Test Branch x3");
+
     }
 }
